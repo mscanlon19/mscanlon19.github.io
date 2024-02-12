@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+## Publications
+
+-   [**PEAD.txt: Post-Earnings-Announcement Drift Using Text**](https://doi.org/10.1017/S0022109022001181) **\|** with Pierre Liang, Vitaly Meursault, and Bryan Routledge
+
+    -   *Journal of Financial and Quantitative Analysis,* 58(6), September 2023
+    -   **Abstract**: We construct a new numerical measure of earnings announcement surprises, standardized unexpected earnings call text (SUE.txt), that does not explicitly incorporate the reported earnings value. SUE.txt generates a text-based post-earnings-announcement drift (PEAD.txt) larger than the classic PEAD. The magnitude of PEAD.txt is considerable even in recent years when the classic PEAD is close to 0. We explore our text-based empirical model to show that the calls’ news content is about details behind the earnings number and the fundamentals of the firm.
+    -   **Presentations:** FARS 2021; ETH Zürich; Bocconi University; SFS Cavalcade North America 2021; Indiana University; Brown University
+
+## Working Papers
+
+-   [**Disclosure in Democracy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154777) **\|** with Matthew Denes and Florian Schulz
+
+    -   **Abstract:** Using hand-collected data on political contributions from undisclosed sources, we document novel stylized facts on "dark money" and its role in elections and politician type. Over the past decade, dark money has become a major source of campaign financing and currently comprises the largest source of capital from special interest groups. Consistent with evading disclosure, dark money is spent just before an election and often transferred to other special interest groups. We show that dark money is more likely to support candidates in competitive races and in areas with reduced information environments, lower education, greater inequality, and less poverty. Exploiting variation in exposure to television advertisements, we find that candidates supported by dark money advertisements receive an increase in votes and are more likely to win elections. While politicians supported by dark money organizations are more likely to engage in the political process by voting for and sponsoring legislation aligned with business interests, they are also more likely to be subsequently voted out of office, suggesting that they may enact an agenda focused on their donors rather than their constituents. Taken together, our results provide the first systematic evidence on the rise and impact of dark money in U.S. congressional elections, contributing to the ongoing debate about disclosure requirements of political spending.
+    -   **Presentations:** London Political Finance (POLFIN) Workshop; NBER Summer Institute, Political Economy; AEA Annual Meeting 2023
+    -   **Media Coverage:** [Dark Money Dominates Spending by Special Interest Groups and Sways Elections, *ProMarket* (August 2022)](https://www.promarket.org/2022/08/15/dark-money-dominates-spending-by-special-interest-groups-and-sways-elections/)
+
+### 
