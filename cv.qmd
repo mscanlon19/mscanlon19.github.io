@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2024-02-11
+date: 2024-02-12
 published-title: CV last updated
 engine: knitr
 freeze: false
