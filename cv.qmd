@@ -1,6 +1,10 @@
 ---
 title: "CV"
+<<<<<<< HEAD
 date: 2024-08-28
+=======
+date: 2024-02-14
+>>>>>>> c9bab6e92df4fc6d70535c785d5434c7435fd22c
 published-title: CV last updated
 engine: knitr
 freeze: false
