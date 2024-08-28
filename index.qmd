@@ -11,7 +11,7 @@ about:
     href: https://orcid.org/0000-0003-1790-3970
   - icon: envelope-at
     text: Email
-    href: mailto:mms238@pitt.edu
+    href: mailto:madeline.scanlon@moore.sc.edu
   - icon: book
     text: SSRN
     href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4578011
@@ -20,9 +20,7 @@ about:
     href: cv.qmd
 ---
 
-I am a **Doctoral Candidate in Finance at the University of Pittsburgh, Katz Graduate School of Business**.
-
-I will be joining the **University of South Carolina, Darla Moore School of Business** in August 2024, as an **Assistant Professor of Finance**.
+I am an **Assistant Professor of Finance** at the **University of South Carolina, Darla Moore School of Business**.
 
 My research focuses on **empirical corporate finance**, with applications in **political economy** and **labor economics**.
 
