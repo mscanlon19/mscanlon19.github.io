@@ -4,6 +4,13 @@ title: "Research"
 
 ## Publications
 
+-   [**Shining a Light on Firms’ Political Connections: The Role of Dark Money**](https://academic.oup.com/rcfs/article/doi/10.1093/rcfs/cfaf016/8237426) **\|** with Matthew Denes
+
+    -   *Review of Corporate Finance Studies,* 14(4), August 2025
+    -   **Abstract**: We study the emergence of a new channel for firms’ political activity using dark money through undisclosed and unlimited contributions. After the U.S. federal court decisions in 2010, S&P 500 firms substantially increased their use of dark money. We find that dark money contributions complement political engagement through campaign contributions and lobbying. Firms disclose dark money contributions when they face heightened nondisclosure costs. Firms contributing to dark money groups benefit by receiving more procurement contracts and increased government subsidies. Our findings highlight that political connections by firms are evolving and expanding through new and largely unexplored channels.
+    -   **Presentations:** RCFS Winter Conference 2024 
+    -   **Media Coverage:** [Shining a Light on Firms' Political Connections, *The CLS Blue Sky Blog* (October 2025)](https://clsbluesky.law.columbia.edu/2025/10/17/shining-a-light-on-firms-political-connections/)
+
 -   [**PEAD.txt: Post-Earnings-Announcement Drift Using Text**](https://doi.org/10.1017/S0022109022001181) **\|** with Pierre Liang, Vitaly Meursault, and Bryan Routledge
 
     -   *Journal of Financial and Quantitative Analysis,* 58(6), September 2023
@@ -12,10 +19,10 @@ title: "Research"
 
 ## Working Papers
 
--   [**Disclosure in Democracy**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154777) **\|** with Matthew Denes and Florian Schulz
+-   [**Democracy in the Dark: How Hidden Political Donations Shape U.S. Elections**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4154777) **\|** with Matthew Denes
 
-    -   **Abstract:** Using hand-collected data on political contributions from undisclosed sources, we document novel stylized facts on "dark money" and its role in elections and politician type. Over the past decade, dark money has become a major source of campaign financing and currently comprises the largest source of capital from special interest groups. Consistent with evading disclosure, dark money is spent just before an election and often transferred to other special interest groups. We show that dark money is more likely to support candidates in competitive races and in areas with reduced information environments, lower education, greater inequality, and less poverty. Exploiting variation in exposure to television advertisements, we find that candidates supported by dark money advertisements receive an increase in votes and are more likely to win elections. While politicians supported by dark money organizations are more likely to engage in the political process by voting for and sponsoring legislation aligned with business interests, they are also more likely to be subsequently voted out of office, suggesting that they may enact an agenda focused on their donors rather than their constituents. Taken together, our results provide the first systematic evidence on the rise and impact of dark money in U.S. congressional elections, contributing to the ongoing debate about disclosure requirements of political spending.
-    -   **Presentations:** London Political Finance (POLFIN) Workshop; NBER Summer Institute, Political Economy; AEA Annual Meeting 2023
+    -   **Abstract:**  Using hand-collected data on political contributions from undisclosed sources, we document novel stylized facts on ``dark money'' and its role in elections. Over the past decade, dark money has become a major source of campaign financing and currently comprises the largest source of capital from special interest groups. Dark money is primarily spent against candidates just before an election and often transferred to other special interest groups, consistent with evading disclosure. We show that dark money is more likely to be used in competitive elections and in areas with reduced information environments. Dark money-backed politicians support legislation as advocated for by dark money groups, and regulations are reduced at agencies connected to dark money issues. We also find that dark money-backed politicians are more likely to be subsequently voted out of office, suggesting that their agenda might be aligned with their donors rather than their constituents. Our results highlight that dark money is pervasive in U.S. campaign finance and influences the politicians elected to Congress.
+    -   **Presentations:** London Political Finance (POLFIN) Workshop; NBER Summer Institute, Political Economy; AEA Annual Meeting 2023; Georgetown Political Finance Conference 2025
     -   **Media Coverage:** [Dark Money Dominates Spending by Special Interest Groups and Sways Elections, *ProMarket* (August 2022)](https://www.promarket.org/2022/08/15/dark-money-dominates-spending-by-special-interest-groups-and-sways-elections/)
 
 ### 
